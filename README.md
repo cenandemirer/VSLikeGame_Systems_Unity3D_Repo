@@ -49,12 +49,13 @@ flowchart LR
 ## Quick start (Unity)
 **Option A — UPM (recommended):**
 1. Unity: **Window → Package Manager → + → Add package from git URL**
-2. Use: `https://github.com/<you>/VSLikeGame_CV_System_Repo.git?path=/Packages/com.vslikegame.systems`
+2. Use: `https://github.com/cenandemirer/VSLikeGame_Systems_Unity3D_Repo.git`
 
 **Option B — Copy:**
-Copy `Packages/com.vslikegame.systems` into your project's `Packages/`.
+Copy `Packages/Game Systems` into your project's `Packages/`.
 
 ---
 
 ### License
 MIT
+
